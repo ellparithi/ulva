@@ -3,5 +3,13 @@ __pycache__/
 models/
 *.safetensors
 *.bin
+*.pt
 .cache/
 venv/
+
+data/
+*.arrow
+*.pt
+*.bin
+*.safetensors
+.cache/
